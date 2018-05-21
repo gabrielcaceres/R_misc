@@ -1,2 +1,2 @@
-# R_various
-Mix of various R functions
+# R_misc
+Just to keep track of some miscellaneous R functions
